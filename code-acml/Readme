@@ -1,0 +1,33 @@
+#!/usr/bin/python
+#coding:utf-8
+# ==============================================================================
+# Copyright 2020 The ICME-2021 ID:18 Authors. All Rights Reserved.
+# This open source code is uploaded only for reviewing process of ICME-2021,
+# support the reliability of the computational data within paper ID:18.
+# Without permission from the ICME-2021 ID:18 Authors , no one shall 
+# #disseminate, copy or modify this code for purposes other than 
+# reviewing manuscripts.
+# ==============================================================================
+"""
+This code is the calculation program of the paper `` Blind Adversarial Pruning: Towards the comprehensive robust models with gradually pruning against blind Adversarial Attack ''(BAP)
+The ICME-2021 ID:18.
+
+Dependency libraries:
+This code is writing in Python, 
+dependence on tensorflow: https://github.com/tensorflow/tensorflow
+and cleverhans: https://github.com/tensorflow/cleverhans.
+and tensorflow/model-optimization:  https://github.com/tensorflow/model-optimization
+
+This folder contains the source code for the paper 
+`` Blind Adversarial Pruning: Towards the comprehensive robust models with gradually pruning against blind Adversarial Attack ''(BAP)  ICME-2021 ID:18.
+"""
+
+Simple code for example:
+
+1- Train BAP model:
+
+python cal_model.py 
+
+2- Evaluate the trained model
+
+python cal_acc.py 
