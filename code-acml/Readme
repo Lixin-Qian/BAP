@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #coding:utf-8
 # ==============================================================================
-# Copyright 2020 The ICME-2021 ID:18 Authors. All Rights Reserved.
+# Copyright 2021 The ICME-2021 ID:18 Authors. All Rights Reserved.
 # This open source code is uploaded only for reviewing process of ICME-2021,
 # support the reliability of the computational data within paper ID:18.
 # Without permission from the ICME-2021 ID:18 Authors , no one shall 
@@ -31,3 +31,5 @@ python cal_model.py
 2- Evaluate the trained model
 
 python cal_acc.py 
+
+The parameters within BAP have been preset in the code and can be modified as needed. 
