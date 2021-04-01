@@ -5,7 +5,9 @@ This repository contains the source code for Blind Adversarial Pruning (BAP), a 
 ## Related articles 
 
 This related articles of this code are listed follows,
+
 [1] Haidong Xie, Lixin Qian, Xueshuang Xiang*, Naijin Liu, Blind Adversarial Pruning: Towards the Comprehensive Robust Models with Gradually Pruning Against Blind Adversarial Attacks, IEEE International Conference on Multimedia and Expo (ICME) 2021, in press, Shenzhen, China. 
+
 [2] Haidong Xie, Xueshuang Xiang*, Naijin Liu, Bin Dong, Blind Adversarial Training: Towards the Comprehensively Robust Models against Blind Adversarial Attack, arXiv 2004.05914. 
 
 If you use this code for academic research, you are highly encouraged to cite this paper.
