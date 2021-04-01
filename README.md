@@ -63,4 +63,4 @@ The parameters within BAP have been preset in the code and can be modified as ne
 
 ## Copyright
 
-Copyright 2018 - Qian Xuesen Laboratory, China Academy of Space Technology.
+Copyright 2021 - Qian Xuesen Laboratory, China Academy of Space Technology.

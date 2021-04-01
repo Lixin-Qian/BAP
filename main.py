@@ -1,17 +1,12 @@
 #!/usr/bin/python
 #coding:utf-8
 # ==============================================================================
-# Copyright 2020 The ICME-2021 ID:18 Authors. All Rights Reserved.
-# This open source code is uploaded only for reviewing process of ICME-2021,
-# support the reliability of the computational data within paper ID:18.
-# Without permission from the ICME-2021 ID:18 Authors , no one shall 
-# #disseminate, copy or modify this code for purposes other than 
-# reviewing manuscripts.
+# Copyright 2021 - Qian Xuesen Laboratory, China Academy of Space Technology, 
+# and all authors of the paper {arxiv.org/abs/2004.05913}.
+# This code is the calculation program of the paper 
+# `` Blind Adversarial Pruning: Towards the comprehensive robust models with 
+# gradually pruning against blind Adversarial Attack ''(BAP)
 # ==============================================================================
-"""
-This code is the calculation program of the paper `` Blind Adversarial Pruning: Towards the comprehensive robust models with gradually pruning against blind Adversarial Attack ''(BAP)
-The ICME-2021 ID:18.
-"""
 
 import tensorflow.compat.v1 as tf
 #import tensorflow as tf
