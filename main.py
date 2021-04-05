@@ -8,6 +8,8 @@
 # gradually pruning against blind Adversarial Attack ''(BAP)
 # ==============================================================================
 
+# For more guidance, see README.md for detail.
+
 import tensorflow.compat.v1 as tf
 #import tensorflow as tf
 

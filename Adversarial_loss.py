@@ -1,23 +1,15 @@
 #!/usr/bin/python
 #coding:utf-8
 # ==============================================================================
-# Copyright 2020 The ACML-2020 ID:78 Authors. All Rights Reserved.
-# This open source code is uploaded only for reviewing process of ACML-2020,
-# support the reliability of the computational data within paper ID:78.
-# Without permission from the ACML-2020 ID:78 Authors , no one shall 
-# #disseminate, copy or modify this code for purposes other than 
-# reviewing manuscripts.
+# Copyright 2021 - Qian Xuesen Laboratory, China Academy of Space Technology, 
+# and all authors of the paper {arxiv.org/abs/2004.05913}.
+# This code is the calculation program of the paper 
+# `` Blind Adversarial Pruning: Towards the comprehensive robust models with 
+# gradually pruning against blind Adversarial Attack ''(BAP)
 # ==============================================================================
-"""
-This code is the calculation program of the paper `` Blind Adversarial Pruning: Towards the comprehensive robust models with gradually pruning against blind Adversarial Attack ''(BAP)
-The ACML-2020 ID:78.
 
-Dependency libraries:
-This code is writing in Python, 
-dependence on tensorflow: https://github.com/tensorflow/tensorflow
-and cleverhans: https://github.com/tensorflow/cleverhans.
-and tensorflow/model-optimization:  https://github.com/tensorflow/model-optimization
-"""
+# For more guidance, see README.md for detail.
+
 import tensorflow.compat.v1 as tf
 #import tensorflow as tf
 from tensorflow.compat.v1 import keras
